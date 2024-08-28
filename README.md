@@ -1,3 +1,11 @@
+https://tinkercademy.com/wp-content/uploads/2018/04/python-icon.png
+
+
+
+
+
+
+
 # Supply-chain-Analysis
 Problem Statement - Product Shipment Weight
   Business Problem:
