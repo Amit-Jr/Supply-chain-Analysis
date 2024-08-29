@@ -1,4 +1,7 @@
-https://tinkercademy.com/wp-content/uploads/2018/04/python-icon.png
+![pandas-logo](https://github.com/user-attachments/assets/73391b5f-dc11-4b23-951f-9d4de123af22)
+![OIP](https://github.com/user-attachments/assets/f685f868-1901-42b7-a631-ff78289b307b)
+![seaborn-logo-97023602C9-seeklogo com](https://github.com/user-attachments/assets/7fcea5cc-236d-449b-a0fc-f903ad480d46)
+![matplotlib](https://github.com/user-attachments/assets/08e4fea9-e0b7-4dd4-a346-7e7bf028fd27)
 
 
 
